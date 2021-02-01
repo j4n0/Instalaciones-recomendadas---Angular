@@ -9,6 +9,7 @@ Git
 git config --global user.name "Tu nombre"
 git config --global user.email "Tu correo"
 Node
+
 Extensiones de VSCode
 Activitus Bar
 
